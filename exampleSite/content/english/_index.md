@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: images/sea-bg.jpg
-  bg_overlay: true
+  bg_overlay: false
   title: 睡海邊 <br/> Sleepy Seaside
   content: 前方是海，後方是山，被山海包圍的民宿
   button:
