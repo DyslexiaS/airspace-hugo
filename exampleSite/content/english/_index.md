@@ -12,17 +12,10 @@ banner:
     link: project
 about:
   enable: true
-  title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
-  image: images/wrapper-img.png
+  title: 關於睡海邊
+  description: 蘇澳最美的海灣
+  content: "美麗的東澳灣，寧靜的粉鳥林漁港，宜蘭最後一塊未開發的海灣，也是宜蘭最美麗的海灣，在群山環抱，碧海藍天，東海岸日出的美景\U00025683渡過最優閒及美好的假期，在當地當天的新鮮魚貨\U00025683，享用最好的美食，讓各位露友們，可以帶著滿滿的能量，返回工作崗位，迎接挑戰，希望大家都能玩的開心，就是我們最大的幸福！"
+  image: images/woody.jpeg
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
@@ -53,7 +46,7 @@ cta:
     label: Tell Us Your Story
     link: contact
 funfacts:
-  enable: true
+  enable: false
   title: Fun Facts About Us
   description: "'Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
