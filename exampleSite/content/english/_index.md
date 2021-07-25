@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/sea-bg.jpg
   bg_overlay: true
   title: 睡海邊 <br/> Sleepy Seaside
   content: 前方是海，後方是山，被山海包圍的民宿
@@ -82,5 +82,6 @@ funfacts:
     content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
+draft: true
 
 ---
