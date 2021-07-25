@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: images/sea-bg.jpg
   bg_overlay: false
-  title: 睡海邊 <br/> Sleepy Seaside
+  title: 寶島大樓 <br/> Bao Dao
   content: 前方是海，後方是山，被山海包圍的民宿
   button:
     enable: true
